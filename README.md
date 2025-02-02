@@ -2,7 +2,7 @@
 
 FactWizard is an AI-powered fun fact generator that uses the Groq API to create engaging and surprising facts about various topics. Built with Streamlit, this interactive web application makes learning fun and magical!
 
-![FactWizard](assets/banner.py) 
+![FactWizard](assets/banner.png) 
 
 ## ✨ Features
 
